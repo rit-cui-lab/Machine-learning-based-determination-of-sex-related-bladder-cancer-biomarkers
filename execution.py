@@ -291,13 +291,15 @@ def dgea_stats():
 
 if __name__ == '__main__':
 
-    inspect_cross_fold_ranking()
+    # run the entire pipeline
+    run_complete_analysis()
 
 
 
 
 
     
+
 
 
 
