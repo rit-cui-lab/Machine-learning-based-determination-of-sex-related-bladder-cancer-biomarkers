@@ -1,0 +1,64 @@
+Sample	Age	Gender	Organ	Category	Histopathology	Tumor stage	N stage	M stage	GEO ID
+258510BT_FRRL210032199-1a	66	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586005		
+263772BT_FRRL210024289-1a	79	Male	bladder	Tumor	Transitional cell carcinoma	T2a	N0	M0	GSM7586016	
+264495BN_FRRL210032210-1a	50	Male	bladder	Peritumoral					GSM7586043			
+264495BT_FRRL210024288-1a	50	Male	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586027
+265902BP_FRRL210032215-1a	70	Male	bladder	Peritumoral					GSM7586053			
+265902BT_FRRL210032217-1a	70	Male	bladder	Tumor	Transitional cell carcinoma with squamous differentiation	T2a	N1	M0	GSM7586036
+273879BP_FRRL202251962-1a	76	Male	bladder	Peritumoral					GSM7586060			
+273879BT_FRRL202251961-1a	76	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586037
+273902BN_FRRL210032186-1a	65	Male	bladder	Peritumoral					GSM7586045			
+273902BT_FRRL202251959-1a	65	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586038
+274088BP_FRRL202251964-1a	67	Female	bladder	Peritumoral					GSM7586061			
+274088BT_FRRL202251963-1a	67	Female	bladder	Tumor	Transitional cell carcinoma	T2	N0	M0	GSM7586039
+276830BN_FRRL210002955-1a	57	Male	bladder	Peritumoral					GSM7586046			
+276830BT_FRRL202251967-1a	57	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586041
+278265BT_FRRL210032209-1a	46	Male	bladder	Tumor	Transitional cell carcinoma	T4a	N1	M0	GSM7586040
+281419BN_FRRL210024281-1a	66	Male	bladder	Peritumoral					GSM7586047			
+281419BT_FRRL202251975-1a	66	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586042
+281593BT_FRRL210024290-1a	60	Male	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586006	
+282948BP_FRRL202251982-1a	52	Male	bladder	Peritumoral					GSM7586062			
+282948BT_FRRL202251981-1a	52	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586007
+283146BP_FRRL202251984-1a	79	Male	bladder	Peritumoral					GSM7586063				
+283146BT_FRRL20225983-1a	79	Male	bladder	Tumor	Transitional cell carcinoma	T2a	N0	M0
+284205BN_FRRL210032201-1a	72	Female	bladder	Peritumoral					GSM7586048				
+284205BT_FRRL210024286-1a	72	Female	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586009	
+285049BN_FRRL210032192-1a	59	Male	bladder	Peritumoral					GSM7586049				
+285049BT_FRRL210024280-1a	59	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586010
+B202516BT	69	Female	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586011
+B233540BN	56	Female	bladder	Peritumoral					GSM7586050				
+B233540BT	56	Female	bladder	Tumor	Transitional cell carcinoma	T2b	N0	M0	GSM7586012
+B236298BT	77	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586013
+B288493BN	74	Female	bladder	Peritumoral					GSM7586051				
+B288493BT	74	Female	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586014
+B290415BP	82	Male	bladder	Peritumoral					GSM7586064				
+B290415BT	82	Male	bladder	Tumor	Transitional cell carcinoma	T2b	N0	M0	GSM7586015
+B293766BP	53	Male	bladder	Peritumoral					GSM7586065				
+B293766BT	53	Male	bladder	Tumor	Transitional cell carcinoma	T3	N0	M0	GSM7586017
+B294548BN	63	Male	bladder	Peritumoral					GSM7586052				
+B294548BT	63	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586018
+B294599BP	62	Male	bladder	Peritumoral					GSM7586066				
+B294599BT	62	Male	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586019
+B294612BP	69	Female	bladder	Peritumoral					GSM7586067				
+B294612BT	69	Female	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586020
+B295051BT	50	Male	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586021
+B295992BP	78	Female	bladder	Peritumoral					GSM7586054			
+B295992BT	78	Female	bladder	Tumor	Transitional cell carcinoma	T3a	N2	M0	GSM7586022
+B297441BP	73	Male	bladder	Peritumoral					GSM7586055				
+B297441BT	73	Male	bladder	Tumor	Transitional cell carcinoma	T2b	N0	M0	GSM7586023
+B297476BP	75	Female	bladder	Peritumoral					GSM7586056				
+B297476BT	75	Female	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586024
+B297583BN	49	Male	bladder	Peritumoral					GSM7586044				
+B297583BT	49	Male	bladder	Tumor	Transitional cell carcinoma	T2a	N0	M0	GSM7586025
+B297905BP	83	Male	bladder	Peritumoral					GSM7586057				
+B297905BT	83	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586026
+B297969BT	67	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586028
+B297993BT	86	Male	bladder	Tumor	Transitional cell carcinoma	T2	N0	M0	GSM7586029
+B298079BT	53	Male	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586030
+B298182BT	74	Male	bladder	Tumor	Transitional cell carcinoma	T2a	N0	M0	GSM7586031
+B299391BT	71	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586032
+B300069BP	60	Male	bladder	Peritumoral					GSM7586058				
+B300069BT	60	Male	bladder	Tumor	Transitional cell carcinoma	T2a	N0	M0	GSM7586033
+B300180BT	68	Male	bladder	Tumor	Transitional cell carcinoma	T1	N0	M0	GSM7586034
+B300378BP	80	Female	bladder	Peritumoral					GSM7586059				
+B300378BT	80	Female	bladder	Tumor	Transitional cell carcinoma	Ta	N0	M0	GSM7586035
